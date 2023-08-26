@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Station-Meteo"
+		},
+		{
+			"name": "BMEIOTAPP",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
