@@ -1,9 +1,5 @@
 /*********
-  Rui Santos
-  Complete instructions at https://RandomNerdTutorials.com/firebase-esp32-esp8266-ebook/
-  
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files.
-  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Station meteo TechIMA
 *********/
 
 #include <Arduino.h>
@@ -21,18 +17,18 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "Scop-AA"
-#define WIFI_PASSWORD "@Scop7890@!"
+#define WIFI_SSID "YYYYY"
+#define WIFI_PASSWORD "XXX"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDzRtjgigJGt-85MWSoN1eoeIoU4gLTpJc"
+#define API_KEY "XYXYXYXYXYXYXYXY"
 
 // Insert Authorized Username and Corresponding Password
-#define USER_EMAIL "yayehaby2000@gmail.com"
-#define USER_PASSWORD "abiba2000"
+#define USER_EMAIL "XXXXXXXXXXXXX"
+#define USER_PASSWORD "YYYY"
 
 // Insert RTDB URLefine the RTDB URL
-#define DATABASE_URL "https://bme280-iot-app-default-rtdb.firebaseio.com/"
+#define DATABASE_URL "XXXXXXXXXXXXXXX.firebaseio.com/"
 
 // Define Firebase objects
 FirebaseData stream;
